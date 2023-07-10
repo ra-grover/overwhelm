@@ -2,103 +2,13 @@ apiVersion: v1
 entries:
   overwhelm:
   - apiVersion: v2
-    created: "2022-11-17T22:15:17.764142578Z"
-    digest: 11be6fcb82ab95278e8d346801a737359d6c4d40c7defe4ce0a00307146eca19
+    created: "2023-07-10T20:43:46.096711077Z"
+    digest: 7c3b8a67bc12e33194a41154436b9bf43e17b6404a5b880615b518eb932b7af8
     maintainers:
     - name: Expedia Group
       url: https://github.com/ExpediaGroup/overwhelm
     name: overwhelm
     urls:
-    - https://github.com/ExpediaGroup/overwhelm/releases/download/overwhelm-1.1.4/overwhelm-1.1.4.tgz
-    version: 1.1.4
-  - apiVersion: v2
-    created: "2022-10-06T14:12:19.497118392Z"
-    digest: d72a119fc3aa8e3e0ff7c668658ec2dda62f34ae67d243ac07d3bdea34599fbd
-    maintainers:
-    - name: Expedia Group
-      url: https://github.com/ExpediaGroup/overwhelm
-    name: overwhelm
-    urls:
-    - https://github.com/ExpediaGroup/overwhelm/releases/download/overwhelm-1.1.3/overwhelm-1.1.3.tgz
-    version: 1.1.3
-  - apiVersion: v2
-    created: "2022-09-28T20:06:04.401220427Z"
-    digest: 950601edd839feb4c86566b610e871dd3c31617fd04e35bdaf2c6b3626dcd4f1
-    maintainers:
-    - name: Expedia Group
-      url: https://github.com/ExpediaGroup/overwhelm
-    name: overwhelm
-    urls:
-    - https://github.com/ExpediaGroup/overwhelm/releases/download/overwhelm-1.1.2/overwhelm-1.1.2.tgz
-    version: 1.1.2
-  - apiVersion: v2
-    created: "2022-09-26T14:00:47.986981305Z"
-    digest: 3ac8110664bf89e01f030f12d3c28834d4772942bc6d8173972594a85504e338
-    maintainers:
-    - name: Expedia Group
-      url: https://github.com/ExpediaGroup/overwhelm
-    name: overwhelm
-    urls:
-    - https://github.com/ExpediaGroup/overwhelm/releases/download/overwhelm-1.1.1/overwhelm-1.1.1.tgz
-    version: 1.1.1
-  - apiVersion: v2
-    created: "2022-09-22T15:16:31.965557477Z"
-    digest: ddd068e004b3abab513b5bc796b05553dd8201d032f9a81b17702ace78cd2cf2
-    maintainers:
-    - name: Expedia Group
-      url: https://github.com/ExpediaGroup/overwhelm
-    name: overwhelm
-    urls:
-    - https://github.com/ExpediaGroup/overwhelm/releases/download/overwhelm-1.1.0/overwhelm-1.1.0.tgz
-    version: 1.1.0
-  - apiVersion: v2
-    created: "2022-09-02T14:38:17.030269316Z"
-    digest: 68f2a858127e4daac133f0a109243e211d1a02b0ed9909f42c51f381d844ea42
-    maintainers:
-    - name: Expedia Group
-      url: https://github.com/ExpediaGroup/overwhelm
-    name: overwhelm
-    urls:
-    - https://github.com/ExpediaGroup/overwhelm/releases/download/overwhelm-1.0.2/overwhelm-1.0.2.tgz
-    version: 1.0.2
-  - apiVersion: v2
-    created: "2022-08-23T18:06:24.852295243Z"
-    digest: 56b8ce98880e61df3840450e1e69f3b8a31ff852d51f5d99bd978afe5a6b4d56
-    maintainers:
-    - name: Expedia Group
-      url: https://github.com/ExpediaGroup/overwhelm
-    name: overwhelm
-    urls:
-    - https://github.com/ExpediaGroup/overwhelm/releases/download/overwhelm-1.0.1/overwhelm-1.0.1.tgz
-    version: 1.0.1
-  - apiVersion: v2
-    created: "2022-08-17T20:29:34.934012871Z"
-    digest: c1d01354bf7590aaed267c2cc662965ddec9d5be07db5aea4ff6f7fafa4b3940
-    maintainers:
-    - name: Expedia Group
-      url: https://github.com/ExpediaGroup/overwhelm
-    name: overwhelm
-    urls:
-    - https://github.com/ExpediaGroup/overwhelm/releases/download/overwhelm-1.0.0/overwhelm-1.0.0.tgz
-    version: 1.0.0
-  - apiVersion: v2
-    created: "2022-08-01T20:21:14.917549917Z"
-    digest: f03c046153b4105cc0cf872f37c16c1e583e6b59ee78185ec78965e44c89543e
-    maintainers:
-    - name: Expedia Group
-      url: https://github.com/ExpediaGroup/overwhelm
-    name: overwhelm
-    urls:
-    - https://github.com/ExpediaGroup/overwhelm/releases/download/overwhelm-0.0.3/overwhelm-0.0.3.tgz
-    version: 0.0.3
-  - apiVersion: v2
-    created: "2022-08-01T12:51:30.075435954Z"
-    digest: 4e00816bc683320b61438019a530cb513145684237af6f340fb763edf8acc6a2
-    maintainers:
-    - name: Expedia Group
-      url: https://github.com/ExpediaGroup/overwhelm
-    name: overwhelm
-    urls:
-    - https://github.com/ExpediaGroup/overwhelm/releases/download/overwhelm-0.0.2/overwhelm-0.0.2.tgz
-    version: 0.0.2
-generated: "2022-08-01T12:51:29.896182263Z"
+    - https://github.com/ra-grover/overwhelm/releases/download/overwhelm-1.2.4/overwhelm-1.2.4.tgz
+    version: 1.2.4
+generated: "2023-07-10T20:43:45.940475242Z"
